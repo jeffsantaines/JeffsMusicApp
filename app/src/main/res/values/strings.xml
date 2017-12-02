@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jeff\'s Music App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="browse">Browse</string>
+    <string name="search">Search</string>
+</resources>
