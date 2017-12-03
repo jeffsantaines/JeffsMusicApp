@@ -2,12 +2,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.jeffsantaines.jeffsmusicapp.HomeFragment">
+    tools:context="com.example.jeffsantaines.jeffsmusicapp.HomeFragment"
+    android:background="@color/light_blue">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/home" />
+        android:text="@string/home"
+        />
 
 </FrameLayout>
