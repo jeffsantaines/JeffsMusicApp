@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_height="wrap_content"
+    android:layout_width="match_parent">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"/>
+    <item
+        android:id="@+id/browse"
+        android:icon="@drawable/ic_explore_black_24px"
+        android:title="Browse"/>
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search_black_24px"
+        android:title="Search"/>
+    <item
+        android:id="@+id/radio"
+        android:icon="@drawable/ic_radio_black_24px"
+        android:title="Radio"/>
+    <item
+        android:id="@+id/library"
+        android:icon="@drawable/ic_library_music_black_24dx"
+        android:title="Library"/>
+</menu>
